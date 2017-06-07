@@ -1,6 +1,6 @@
 # JMColorPicker
 
-[![CI Status](http://img.shields.io/travis/jayopteamix/JMColorPicker.svg?style=flat)](https://travis-ci.org/jayopteamix/JMColorPicker)
+[![CI Status](http://img.shields.io/travis/JayachandraA/JMColorPicker.svg?style=flat)](https://travis-ci.org/JayachandraA/JMColorPicker)
 [![Version](https://img.shields.io/cocoapods/v/JMColorPicker.svg?style=flat)](http://cocoapods.org/pods/JMColorPicker)
 [![License](https://img.shields.io/cocoapods/l/JMColorPicker.svg?style=flat)](http://cocoapods.org/pods/JMColorPicker)
 [![Platform](https://img.shields.io/cocoapods/p/JMColorPicker.svg?style=flat)](http://cocoapods.org/pods/JMColorPicker)
@@ -22,7 +22,7 @@ pod "JMColorPicker"
 
 ## Author
 
-jayopteamix, ajchandra15@gmail.com
+JayachandraA, ajchandra15@gmail.com
 
 ## License
 
