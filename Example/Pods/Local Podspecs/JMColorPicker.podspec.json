@@ -1,22 +1,27 @@
 {
   "name": "JMColorPicker",
   "version": "0.1.0",
-  "summary": "A short description of JMColorPicker.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/jayopteamix/JMColorPicker",
+  "summary": "JMColorPicker provides the simple way of selecting color from color picker by sliding the UISlider control.",
+  "description": "JMColorPicker provides the simple way of selecting color from color picker by sliding the UISlider control. Install pod into your project to use the generic color picking for your usage.",
+  "homepage": "https://github.com/JayachandraA/JMColorPicker",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "jayopteamix": "ajchandra15@gmail.com"
+    "JayachandraA": "ajchandra15@gmail.com"
   },
   "source": {
-    "git": "https://github.com/jayopteamix/JMColorPicker.git",
+    "git": "https://github.com/JayachandraA/JMColorPicker.git",
     "tag": "0.1.0"
   },
+  "social_media_url": "https://twitter.com/ajchandra15",
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "JMColorPicker/Classes/**/*"
+  "source_files": "JMColorPicker/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
 }

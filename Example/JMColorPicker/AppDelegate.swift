@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  JMColorPicker
 //
-//  Created by jayopteamix on 06/07/2017.
-//  Copyright (c) 2017 jayopteamix. All rights reserved.
+//  Created by JayachandraA on 06/07/2017.
+//  Copyright (c) 2017 JayachandraA. All rights reserved.
 //
 
 import UIKit

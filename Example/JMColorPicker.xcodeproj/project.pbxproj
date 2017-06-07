@@ -15,6 +15,7 @@
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		98350355407E64F465D915C8 /* Pods_JMColorPicker_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0020FE1E0EEE6CD945FA8A06 /* Pods_JMColorPicker_Example.framework */; };
 		9C887A0DEFA9C3F1ED221A34 /* Pods_JMColorPicker_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E479ACCB455EA4AC35A4C9B6 /* Pods_JMColorPicker_Tests.framework */; };
+		9E2792B11EE82A910048B13E /* JMColorPicker.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E2792B01EE82A910048B13E /* JMColorPicker.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,7 +31,7 @@
 /* Begin PBXFileReference section */
 		0020FE1E0EEE6CD945FA8A06 /* Pods_JMColorPicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JMColorPicker_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E4764D0C5A891B4673A8B5C /* Pods-JMColorPicker_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMColorPicker_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMColorPicker_Example/Pods-JMColorPicker_Example.release.xcconfig"; sourceTree = "<group>"; };
-		2E24588F3E2FCDA579FE7327 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		2E24588F3E2FCDA579FE7327 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* JMColorPicker_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JMColorPicker_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -42,8 +43,9 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		6588E753A876439DDEEEA551 /* Pods-JMColorPicker_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMColorPicker_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMColorPicker_Tests/Pods-JMColorPicker_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		83DA3E58119E7034AA00D94F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		B4925ECBA519626F1BD89DC0 /* JMColorPicker.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = JMColorPicker.podspec; path = ../JMColorPicker.podspec; sourceTree = "<group>"; };
+		83DA3E58119E7034AA00D94F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		9E2792B01EE82A910048B13E /* JMColorPicker.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JMColorPicker.framework; path = "../../../Library/Developer/Xcode/DerivedData/JMColorPicker-exxmhyflcboctbhaamnawkryhkdt/Build/Products/Debug-iphonesimulator/JMColorPicker/JMColorPicker.framework"; sourceTree = "<group>"; };
+		B4925ECBA519626F1BD89DC0 /* JMColorPicker.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JMColorPicker.podspec; path = ../JMColorPicker.podspec; sourceTree = "<group>"; };
 		E479ACCB455EA4AC35A4C9B6 /* Pods_JMColorPicker_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JMColorPicker_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4FEC79A85D4F6827E018C10 /* Pods-JMColorPicker_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMColorPicker_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMColorPicker_Example/Pods-JMColorPicker_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		F85CE0A9D7B73F3C30211A69 /* Pods-JMColorPicker_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMColorPicker_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMColorPicker_Tests/Pods-JMColorPicker_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E2792B11EE82A910048B13E /* JMColorPicker.framework in Frameworks */,
 				98350355407E64F465D915C8 /* Pods_JMColorPicker_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -153,6 +156,7 @@
 		C47EC8C85E44FFF3AA01C0FE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				9E2792B01EE82A910048B13E /* JMColorPicker.framework */,
 				0020FE1E0EEE6CD945FA8A06 /* Pods_JMColorPicker_Example.framework */,
 				E479ACCB455EA4AC35A4C9B6 /* Pods_JMColorPicker_Tests.framework */,
 			);
