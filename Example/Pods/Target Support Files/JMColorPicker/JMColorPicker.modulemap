@@ -1,0 +1,6 @@
+framework module JMColorPicker {
+  umbrella header "JMColorPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

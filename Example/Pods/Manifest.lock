@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JMColorPicker (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JMColorPicker (from `../`)
+
+EXTERNAL SOURCES:
+  JMColorPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JMColorPicker: 0e3d7fe35fab826a3653433f482cd5bb53fb6bd4
+
+PODFILE CHECKSUM: 41d4463fdf3b5f8bd3e35cf3b2aef7ce24274c0c
+
+COCOAPODS: 1.2.1

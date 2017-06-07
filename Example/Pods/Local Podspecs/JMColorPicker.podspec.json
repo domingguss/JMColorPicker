@@ -1,0 +1,22 @@
+{
+  "name": "JMColorPicker",
+  "version": "0.1.0",
+  "summary": "A short description of JMColorPicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jayopteamix/JMColorPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jayopteamix": "ajchandra15@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jayopteamix/JMColorPicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JMColorPicker/Classes/**/*"
+}
